@@ -1,6 +1,6 @@
 ```mermaid
 graph TD; 
-    A((Stumbling)) --> B(Exploring)    
+    A((Stumbling)) --> B(Exploring)
     B --> C1(Discovery </br> of Magic)
     C1 --> C{{What to do?}}
     C --> D[Find owner]
@@ -9,6 +9,5 @@ graph TD;
     
     D --> D2[Who would know]
     
-    click A "https://github.com/brinesia/blob/main/stumbling.md"
-    
+       
 ```
