@@ -9,6 +9,6 @@ graph TD;
     
     D --> D2[Who would know]
     
-    click A "https://github.com/brinesia/blob/main/stumbling.md"
+    click A "https://github.com/eserlan/brinesia/blob/main/stumbling.md"
     
 ```
