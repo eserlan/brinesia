@@ -1,6 +1,6 @@
 ```mermaid
- 
- A((Stumbling)) --> B(Exploring)
+graph TD; 
+    A((Stumbling)) --> B(Exploring)
     B --> C{What to do?}
     C --> D[Deliver]
     C --> E[Sell]
