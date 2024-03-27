@@ -1,4 +1,4 @@
-### Here is a simple flow chart:
+### Flames of Langlelek
 
 ```mermaid
 flowchart 
